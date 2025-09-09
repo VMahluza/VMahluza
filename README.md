@@ -1,4 +1,3 @@
-<!-- Banner -->
 <h1 align="center">Hi, I'm Victor Mahluza 👋</h1>
 <p align="center">
   Junior Software Developer • Full‑Stack & Backend • Building elegant solutions through code
@@ -11,79 +10,53 @@
   <a href="https://github.com/VMahluza" target="_blank">GitHub</a>
 </p>
 
----
-
-## About Me
-I’m a Junior Software Developer focused on building clean, responsive, and user‑friendly applications. With experience across frontend and backend, I bring a holistic approach to solving real‑world problems.
-
-- Advanced Diploma in Application Development — University of Mpumalanga
-- 2+ years experience in full‑stack and backend development
-- Passionate about mentoring, technical support, and team leadership
-
----
-
-## What I’m Working On
-- AI‑powered chatbot integrated into my portfolio with streaming responses
-- Portfolio auto‑refresh via web scraping to keep project/experience data up to date
-- Clean UI/UX with React, TypeScript, Tailwind, and component composition
-
-Check it out: https://victor-mahluza-portfolio.vercel.app
+<p align="center">
+  <img src="https://tenor.com/bwEyz.gif" alt="Luffy One Piece" height="180" />
+</p>
 
 ---
 
 ## Tech Stack
-- Languages: TypeScript/JavaScript, Python, Java, SQL
-- Backend: Spring Boot, Django, REST APIs
-- Frontend: React, Next.js, TailwindCSS, Vue.js
-- Data: PostgreSQL, MySQL, MongoDB
-- Cloud & Tools: AWS, Git, CI/CD, Blue Prism
+<p align="left">
+  <img src="https://cdn.simpleicons.org/django/092E20" height="38" alt="Django" title="Django" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="38" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="38" alt="Vue.js" title="Vue.js" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="38" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=psHTljeU&id=1217B88B95FC5BCF080A3B15CA4B6920B4531B00&thid=OIP.psHTljeUmjcPjpOqtgp0HwHaEb&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a6c1d39637949a370f8e93aab60a741f%3frik%3dABtTtCBpS8oVOw%26riu%3dhttp%253a%252f%252fgisuser.com%252fwp-content%252fuploads%252f2018%252f08%252f2000px-Amazon_Web_Services_Logo.svg_.png%26ehk%3dhQq0rohWcsyiJCNiAOwDAXgnti8Yjm0TPZJLBnIXSHM%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1197&expw=2000&q=aws&FORM=IRPRST&ck=39CB56B0D17C03FA7395957A5B988BF5&selectedIndex=14&itb=1" height="38" alt="AWS" title="AWS Cloud" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="38" alt=".NET" title=".NET" />
+</p>
+
+
 
 ---
 
-## Experience
-- Junior Software Engineer — BI Technologies Africa (Feb 2025 – Present)
-  - Strategy Management System with Java Spring Boot + Vue.js
-  - AWS infrastructure and CI/CD maintenance
-- Software Development Team Lead Intern — Internship Success (Feb 2024 – Feb 2025)
-  - Led HRM system development, planning, reviews, and delivery
-- ICT Assistant & Technical Support — University of Mpumalanga (Jan 2023 – Feb 2025)
-  - ICT support, systems troubleshooting, and solutions
-- Group Technology Trainee — Nedbank YES Program (Jan 2023 – Feb 2025)
-  - Automation for reconciliations, KYC, and loan processing (Blue Prism)
+## About Me
+I build clean, responsive, and user‑friendly applications across frontend and backend. I enjoy solving real‑world problems and collaborating with teams.
+
+- Advanced Diploma in Application Development — University of Mpumalanga  
+- 2+ years full‑stack & backend experience  
+- Passionate about mentoring, technical support, and team leadership  
+
+---
+
+## Recent Work
+- AI chatbot integrated into my portfolio (streaming responses, rich context)
+- Auto‑refresh portfolio data via scraping to keep info up to date
+- React + TypeScript + Tailwind UI improvements
+
+👉 Live: https://victor-mahluza-portfolio.vercel.app
 
 ---
 
 ## Selected Projects
-- Mental Health Chatbot — React, Python, Flask, AI/ML
-- UMP AI Tutor — Django, Next.js, NLP, PostgreSQL
-- Internship Success HRM — Spring Boot, React, MySQL, REST
-- FullTankSA Inventory System — Next.js, Django, TailwindCSS, MongoDB
+- Mental Health Chatbot — React, Python, Flask, AI/ML  
+- UMP AI Tutor — Django, Next.js, NLP, PostgreSQL  
+- Internship Success HRM — Spring Boot, React, MySQL  
+- FullTankSA Inventory System — Next.js, Django, MongoDB  
 
 ---
 
-## Certifications
-- AI for Everyone — Coursera
-- React & Redux Advanced — Frontend Masters
-- Web Development Bootcamp — Udemy
-- SAP Introduction to Programming — SAP Learning
-- MongoDB Basics — MongoDB University
-- Mantech IT Infrastructure Challenge — Mantech
-
----
-
-## Let’s Connect
-- 📧 Email: mahluzavictor@gmail.com  
-- 📍 Mpumalanga, South Africa  
-- 🔗 Portfolio: victor-mahluza-portfolio.vercel.app  
-- 💼 LinkedIn: linkedin.com/in/victor-mahluza-a03a96290  
-
----
-
-<!-- GitHub Stats (optional) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VMahluza&show_icons=true&theme=transparent" alt="Victor's GitHub stats" />
-</p>
--->
-
-Thanks for visiting! If you’re looking for a motivated junior developer with strong fundamentals and a bias for shipping, let’s talk.
+## Get in Touch
+- 📧 mahluzavictor@gmail.com  
+- 📍 Guateng, South Africa 
+- 🔗 linkedin.com/in/victor-mahluza-a03a96290  
