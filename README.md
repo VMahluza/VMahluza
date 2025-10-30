@@ -1,62 +1,60 @@
-<h1 align="center">Hi, I'm Victor Mahluza 👋</h1>
-<p align="center">
-  Junior Software Developer • Full‑Stack & Backend • Building elegant solutions through code
-</p>
+<h2 align="left">Hi 👋! My name is Victor Mahluza and I'm a Software Engineer & AWS Cloud Practitioner</h2>
 
-<p align="center">
-  <a href="mailto:mahluzavictor@gmail.com">Email</a> •
-  <a href="https://victor-mahluza-portfolio.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/victor-mahluza-a03a96290" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/VMahluza" target="_blank">GitHub</a>
-</p>
+###
 
-<p align="center">
-  <img src="https://tenor.com/bwEyz.gif" alt="Luffy One Piece" height="180" />
-</p>
+<p align="center">I am Results-driven Software Engineer with deep expertise in Django/Python, .NET/C#, Java (Spring Boot), and Vue.js/TypeScript. AWS Certified Cloud Practitioner who has architected and deployed scalable enterprise solutions, automated CI/CD workflows (GitHub Actions, n8n, CodeDeploy) and mentored development teams. Proven ability to bridge technology and business by delivering high-impact applicationcurrently building an AI-powered Interviewer platform<br>while leading my firm, Vidigital, in tutoring and branding services.</p>
 
----
+###
 
-## Tech Stack
-<p align="left">
-  <img src="https://cdn.simpleicons.org/django/092E20" height="38" alt="Django" title="Django" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="38" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="38" alt="Vue.js" title="Vue.js" />
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="38" alt="Spring Boot" title="Spring Boot" />
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=psHTljeU&id=1217B88B95FC5BCF080A3B15CA4B6920B4531B00&thid=OIP.psHTljeUmjcPjpOqtgp0HwHaEb&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a6c1d39637949a370f8e93aab60a741f%3frik%3dABtTtCBpS8oVOw%26riu%3dhttp%253a%252f%252fgisuser.com%252fwp-content%252fuploads%252f2018%252f08%252f2000px-Amazon_Web_Services_Logo.svg_.png%26ehk%3dhQq0rohWcsyiJCNiAOwDAXgnti8Yjm0TPZJLBnIXSHM%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1197&expw=2000&q=aws&FORM=IRPRST&ck=39CB56B0D17C03FA7395957A5B988BF5&selectedIndex=14&itb=1" height="38" alt="AWS" title="AWS Cloud" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="38" alt=".NET" title=".NET" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VMahluza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=STATS" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=VMahluza&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=1&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VMahluza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&custom_title=LANGAUGES" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VMahluza&theme=github-dark&area=true&hide_border=true&hide_title=false&custom_title=CONTRIBUTIONS%20VS%20DAYS" height="150" alt="activity-graph graph"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+</div>
 
----
+###
 
-## About Me
-I build clean, responsive, and user‑friendly applications across frontend and backend. I enjoy solving real‑world problems and collaborating with teams.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+</div>
 
-- Advanced Diploma in Application Development — University of Mpumalanga  
-- 2+ years full‑stack & backend experience  
-- Passionate about mentoring, technical support, and team leadership  
+###
 
----
+<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9uc254aGdoeDhyOXc3M2pkYjZzNHFzdDRxczBqa3QxZzVwaXJxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qGaYAEAk7eOA/giphy.gif"  />
 
-## Recent Work
-- AI chatbot integrated into my portfolio (streaming responses, rich context)
-- Auto‑refresh portfolio data via scraping to keep info up to date
-- React + TypeScript + Tailwind UI improvements
+###
 
-👉 Live: https://victor-mahluza-portfolio.vercel.app
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/VMahluza/VMahluza/output/snake.svg" alt="Snake animation" />
 
-## Selected Projects
-- Mental Health Chatbot — React, Python, Flask, AI/ML  
-- UMP AI Tutor — Django, Next.js, NLP, PostgreSQL  
-- Internship Success HRM — Spring Boot, React, MySQL  
-- FullTankSA Inventory System — Next.js, Django, MongoDB  
-
----
-
-## Get in Touch
-- 📧 mahluzavictor@gmail.com  
-- 📍 Guateng, South Africa 
-- 🔗 linkedin.com/in/victor-mahluza-a03a96290  
+###
