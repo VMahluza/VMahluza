@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=true&text=Software%20Engineer&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Certified%20Cloud%20Developer%20Associate&descSize=17&descAlign=50&descAlignY=95&textBg=false&color=gradient"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Victor Mahluza and I'm a Software Engineer & AWS Cloud Practitioner</h2>
 
 ###
@@ -50,12 +56,26 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9uc254aGdoeDhyOXc3M2pkYjZzNHFzdDRxczBqa3QxZzVwaXJxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qGaYAEAk7eOA/giphy.gif"  />
+<img src="https://raw.githubusercontent.com/VMahluza/VMahluza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VMahluza.VMahluza&"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VMahluza/VMahluza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9uc254aGdoeDhyOXc3M2pkYjZzNHFzdDRxczBqa3QxZzVwaXJxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qGaYAEAk7eOA/giphy.gif"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
